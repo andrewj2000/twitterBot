@@ -1,4 +1,4 @@
-module github.com/data-henrik/twitterBot
+module github.com/andrewj2000/twitterBot
 
 go 1.14
 
